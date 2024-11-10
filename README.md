@@ -1,16 +1,17 @@
-本项目仅仅是为了前来Fork的朋友保留的，原则上不再更新。本项目示范网站地址为：https://klovien.github.io 。
+### 探索智能的无垠星空
 
-三叶草国际语已更名为“格罗比言·全球语”，新的项目地址为：
+在这里,我们仰望人工智能的浩瀚星空,
+每一颗星辰都闪耀着无限可能。
 
-* 中文版：https://gitee.com/globien/globien
-* 英文版：https://github.com/globien/globien.github.io
+我们是追逐梦想的航海者,
+用代码绘制蓝图,用算法构建未来。
 
-### 致谢
+让我们携手前行,
+在知识的海洋中扬帆起航,
+去探索那未知的彼岸!
 
-1. 这个模板是从这里 [BY](https://github.com/qiubaiying/qiubaiying.github.io) fork 的, 感谢作者BY。 
-2. BY的模板应该是从这个模板 [Hux](https://github.com/Huxpro/huxpro.github.io) fork 的, 也一起感谢一下。
-3. 感谢 Jekyll、Github Pages 和 Bootstrap!
+因为我们坚信,
+今天的好奇心,
+终将成为明天改变世界的力量。
 
-### License
-
-遵循 MIT 许可证。有关详细,请参阅 [LICENSE](https://github.com/klovien/klovien.github.io/blob/master/LICENSE)。
+欢迎加入这场激动人心的智能探索之旅!
