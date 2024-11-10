@@ -23,7 +23,7 @@ tags:
 **课程介绍如下：**
 
 
-![kechengdagang](https://github.com/Space0525/space0525.github.io/blob/master/_posts/2024-11-08-Git%E4%B8%8EGithub%E7%9A%84%E4%BD%BF%E7%94%A8.assets/1-1731077034244-6.png)
+![image-20241110115303544](https://raw.githubusercontent.com/dhw2536/Picture/main/202411101153640.png)
 
 
 
