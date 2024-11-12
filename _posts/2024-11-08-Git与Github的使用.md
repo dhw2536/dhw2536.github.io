@@ -14,6 +14,14 @@ tags:
 
 # Git与Github的使用
 
+### GitHub官方文档
+
+[GitHub Docs](https://docs.github.com/zh)
+
+[关于仓库 - GitHub 文档](https://docs.github.com/zh/repositories/creating-and-managing-repositories/about-repositories)，有时间可以看一下，感觉会学到很多
+
+
+
 ### Git入门到精通全套教程（涵盖GitHub\Gitee码云\GitLab）
 
 [尚硅谷Git入门到精通全套教程（涵盖GitHub\Gitee码云\GitLab）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1vy4y1s7k6?spm_id_from=333.788.videopod.episodes&vd_source=e03b252a2c1fefc80e6f48a6f52e2a4d)
@@ -24,8 +32,6 @@ tags:
 
 
 ![image-20241110115303544](https://raw.githubusercontent.com/dhw2536/Picture/main/202411101153640.png)
-
-
 
 
 
