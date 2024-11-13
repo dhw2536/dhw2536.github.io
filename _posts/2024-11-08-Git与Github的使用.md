@@ -7,7 +7,7 @@ author:     Space
 header-img: img/the-first.png
 catalog:   true
 tags:
-    - Git相关
+    - 科研工具
 ---
 
 
