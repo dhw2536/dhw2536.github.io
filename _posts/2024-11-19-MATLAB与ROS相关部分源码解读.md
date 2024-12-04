@@ -256,11 +256,11 @@ send(velcmd, vel)
 ### 5. 获取机器人位姿（两种方式）
 #### 方式一：直接获取位姿
 ```matlab
-Odometry = rostopic("echo", "/robot0/odom");
+Odometry = rostopic("echo", "/odom");
 showdetails(Odometry);
 newpos = Odometry.Pose.Pose.Position;
 ```
-- **`rostopic("echo", "/robot0/odom")`**：订阅 `/robot0/odom` 话题，获取机器人的里程计数据（包括位姿、速度等信息）。
+- **`rostopic("echo", "/odom")`**：订阅 `/odom` 话题，获取机器人的里程计数据（包括位姿、速度等信息）。
 - **`showdetails(Odometry)`**：显示 `Odometry` 消息的详细信息。
 - **`newpos = Odometry.Pose.Pose.Position;`**：提取机器人的位置（坐标）。
 
